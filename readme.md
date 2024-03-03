@@ -1,6 +1,6 @@
 # Basic Examples of FreeRTOS for the ESP32 Using ESP-IDF
 
-<p align="justify">ESP32 is a SOC that features a 32-bit Xtensa LX6 dual-core (or single-core, depending on the version) microprocessor and an Ultra Low Power (ULP) Co-processor. Also Bluetooth v4.2 and Wi-Fi 802.11 b/g/n connectivity. As well as a security block that supports all the features of the IEEE 82.11 standard, including secure boot, flash encryption, hardware-accelerated cryptography and others.</p>
+<p align="justify">ESP32 is a SOC that features a 32-bit Xtensa LX6 dual-core (or single-core, depending on the version) microprocessor and an Ultra Low Power (ULP) Co-processor. Also Bluetooth v4.2 and Wi-Fi 802.11 b/g/n connectivity. As well as a security block that supports all the features of the IEEE 802.11 standard, including secure boot, flash encryption, hardware-accelerated cryptography and others.</p>
 
 <p align="justify">Espressif provides a development environment for the ESP32 called "ESP IoT Development Framework" (ESP-IDF) which has extensive documentation and examples that facilitate the development of applications that implement the different modules of the SOC. One of the advantages of the ESP-IDF is that it is based on the FreeRTOS real-time operating system, which allows to exploit the multitasking features of the ESP32. Additionally, it is possible to program the ESP32 using Arduino or MicroPython, which makes this device one of the most popular tools today for the development of IoT devices and DIY projects.</p>
 
